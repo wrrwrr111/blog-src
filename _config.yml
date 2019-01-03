@@ -13,7 +13,7 @@ timezone: utc+8
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://wrrwrr111.github.io/baze/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
